@@ -1,0 +1,382 @@
+[
+    {
+        "id": 4000000,
+        "name": "a16z",
+        "symbol": "",
+        "twitter": "https://twitter.com/a16z",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1506618374889082882/IJZsn8PG_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000001,
+        "name": "PanteraCapital",
+        "symbol": "",
+        "twitter": "https://twitter.com/PanteraCapital",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1369391049169371144/1R3n18sT_400x400.png",
+        "times": 0
+    },
+    {
+        "id": 4000002,
+        "name": "drapervc",
+        "symbol": "",
+        "twitter": "https://twitter.com/drapervc",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/824065014361247744/NC4hB8l0_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000003,
+        "name": "FBGCapital",
+        "symbol": "",
+        "twitter": "https://twitter.com/FBGCapital",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/941858149371277312/cfR3iqTJ_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000004,
+        "name": "DCGco",
+        "symbol": "",
+        "twitter": "https://twitter.com/DCGco",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/629714218141388800/VPA28IWa_400x400.png",
+        "times": 0
+    },
+    {
+        "id": 4000005,
+        "name": "USV",
+        "symbol": "",
+        "twitter": "https://twitter.com/usv",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1172542516874350593/Q1AkQndR_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000006,
+        "name": "Polychain Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/polychaincap",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1109224830950207488/z140cwkr_400x400.png",
+        "times": 0
+    },
+    {
+        "id": 4000007,
+        "name": "GalaxyDigital",
+        "symbol": "",
+        "twitter": "https://twitter.com/GalaxyDigitalHQ",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1420626254630473728/55za96xM_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000008,
+        "name": "1confirmation",
+        "symbol": "",
+        "twitter": "https://twitter.com/1confirmation",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1442487848783941640/9wxPw5UZ_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000009,
+        "name": "Arrington Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/arringtonXRPcap",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1484298508396265472/AVjes4D6_400x400.png",
+        "times": 0
+    },
+    {
+        "id": 4000010,
+        "name": "Paradigm",
+        "symbol": "",
+        "twitter": "https://twitter.com/paradigm",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1509651344994418688/OAY8rKKk_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000011,
+        "name": "DCGco",
+        "symbol": "",
+        "twitter": "https://twitter.com/DCGco",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/629714218141388800/VPA28IWa_400x400.png",
+        "times": 0
+    },
+    {
+        "id": 4000012,
+        "name": "Sequoia Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/sequoia",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1468287449130422278/kv_Og2d2_400x400.png",
+        "times": 0
+    },
+    {
+        "id": 4000013,
+        "name": "Benchmark Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/Benchmark_SA",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/874607756761849857/FQb2p-RB_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000014,
+        "name": "GV",
+        "symbol": "",
+        "twitter": "https://twitter.com/GVteam",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1410693006936612864/s6yjg04r_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000015,
+        "name": "1kx",
+        "symbol": "",
+        "twitter": "https://twitter.com/1kxnetwork",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/978009007028760576/D5CCvr_E_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000016,
+        "name": "BlueYard Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/blueyard",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1463113763494715395/fOcSNv-Z_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000017,
+        "name": "AngelList",
+        "symbol": "",
+        "twitter": "https://twitter.com/AngelList",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1401975199281520656/OseQ_Vz6_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000018,
+        "name": "SV Angel",
+        "symbol": "",
+        "twitter": "https://twitter.com/svangel",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1002291177763225600/RPqOsech_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000019,
+        "name": "Fenbushi Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/fenbushi",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/662179229325389824/KkaUWCn6_400x400.png",
+        "times": 0
+    },
+    {
+        "id": 4000020,
+        "name": "Founders Fund",
+        "symbol": "",
+        "twitter": "https://twitter.com/foundersfund",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/961031551147388928/h77pNMAc_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000021,
+        "name": "Fabric Ventures",
+        "symbol": "",
+        "twitter": "https://twitter.com/fabric_vc",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1384423529924411395/SOFOJum2_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000022,
+        "name": "Amino Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/amino_capital",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1435024056592465921/7LJ7Cuwt_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000023,
+        "name": "GV",
+        "symbol": "",
+        "twitter": "https://twitter.com/GVteam",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1410693006936612864/s6yjg04r_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000024,
+        "name": "#Hashed",
+        "symbol": "",
+        "twitter": "https://twitter.com/hashed_official",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/983162051697623042/cd4S8hrE_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000025,
+        "name": "Scalar Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/scalarcapital",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1001833134604865536/AEEJZc1H_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000026,
+        "name": "L4",
+        "symbol": "",
+        "twitter": "https://twitter.com/L4ventures",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/985198647548801024/pBcoyYyv_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000027,
+        "name": "HashKey Group",
+        "symbol": "",
+        "twitter": "https://twitter.com/HashKeyGroup",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1478247468135587846/NvplhVLn_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000028,
+        "name": "ECF - EthereumCommunityFund",
+        "symbol": "",
+        "twitter": "https://twitter.com/ethereumecf",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1477879469259956225/qYH68z2l_400x400.png",
+        "times": 0
+    },
+    {
+        "id": 4000029,
+        "name": "Continue Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/ContinueFund",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1035068296767262720/2vXcWRqV_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000030,
+        "name": "Collaborative Fund",
+        "symbol": "",
+        "twitter": "https://twitter.com/collabfund",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1443500974044323842/6EEjF46R_400x400.png",
+        "times": 0
+    },
+    {
+        "id": 4000031,
+        "name": "Matrix",
+        "symbol": "",
+        "twitter": "https://twitter.com/MatrixPartners",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/764191073459539968/CZd7YC3-_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000032,
+        "name": "Dragonfly Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/dragonfly_cap",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1432878304378310657/mqxWyzdn_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000033,
+        "name": "NGC Ventures",
+        "symbol": "",
+        "twitter": "https://twitter.com/NGC_Ventures",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1163720388519424002/u-RTzHhi_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000034,
+        "name": "Blockchain Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/blockchaincap",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/834190222531268608/FOEMuzbl_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000035,
+        "name": "General Catalyst",
+        "symbol": "",
+        "twitter": "https://twitter.com/generalcatalyst",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/828601319082569728/SwjBKZth_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000036,
+        "name": "Initialized Capital",
+        "symbol": "",
+        "twitter": "https://twitter.com/Initialized",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/1245340630198386690/lAAx6eTX_400x400.jpg",
+        "times": 0
+    },
+    {
+        "id": 4000037,
+        "name": "Craft Ventures",
+        "symbol": "",
+        "twitter": "https://twitter.com/craft_ventures",
+        "exchange": "",
+        "description": "",
+        "logo": "https://pbs.twimg.com/profile_images/963130645957427200/5J4cNDPQ_400x400.jpg",
+        "times": 0
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "id": 3000000,
+        "name": "Magic Eden",
+        "symbol": "",
+        "twitter": "https://twitter.com/magiceden_nft",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/10734/magiceden-dapp-marketplaces-solana-logo-166x166_8b90ac0dc2e8ec219ca06afde15697e0.png",
+        "times": 0
+    },
+    {
+        "id": 3000001,
+        "name": "OpenSea",
+        "symbol": "",
+        "twitter": "https://twitter.com/projectopensea",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/13/opensea-dapp-marketplaces-ethereum-logo-166x166_f8aad6af2930b1edbeaee6457a505d1b.png",
+        "times": 0
+    },
+    {
+        "id": 3000002,
+        "name": "AtomicMarket",
+        "symbol": "",
+        "twitter": "https://twitter.com/pinknetworkx",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/3915/atomicassets-dapp-collectibles-wax-logo-166x166_f05230e3ca5c394018a7c6c50f43529b.png",
+        "times": 0
+    },
+    {
+        "id": 3000003,
+        "name": "Axie Marketplace",
+        "symbol": "",
+        "twitter": "https://twitter.com/AxieInfinity",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/4539/axiemarketplace-dapp-marketplaces-ethereum-logo-166x166_e2a2200af30d78ecabd9d7e165f94dec.png",
+        "times": 0
+    },
+    {
+        "id": 3000004,
+        "name": "Radio Caca Market",
+        "symbol": "",
+        "twitter": "https://twitter.com/RadioCacaNFT",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/11122/radiocacamarket-dapp-marketplaces-bsc-logo-166x166_00b2ba3acea453b452c3213a62ee1ffc.png",
+        "times": 0
+    },
+    {
+        "id": 3000005,
+        "name": "NeftyBlocks",
+        "symbol": "",
+        "twitter": "https://twitter.com/neftyblocks",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/6874/neftyblocks-dapp-marketplaces-wax-logo-166x166_b6f6ed8ddbad62ff599f75198853792e.png",
+        "times": 0
+    },
+    {
+        "id": 3000006,
+        "name": "Solanart",
+        "symbol": "",
+        "twitter": "https://twitter.com/solanartnft",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/10198/solanart-dapp-marketplaces-solana-logo-166x166_3991c589dfc695c198e0e61d3af925d3.png",
+        "times": 0
+    },
+    {
+        "id": 3000007,
+        "name": "objkt.com",
+        "symbol": "",
+        "twitter": "https://twitter.com/objktcom",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/9171/objktcom-dapp-marketplaces-tezos-logo-166x166_bb5840335872cc38e6fb6362f7235416.png",
+        "times": 0
+    },
+    {
+        "id": 3000008,
+        "name": "Gem",
+        "symbol": "",
+        "twitter": "https://twitter.com/gemxyz",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/13989/gem-dapp-marketplaces-ethereum-logo-166x166_13cf103ad74ecc710b364765312d5a55.png",
+        "times": 0
+    },
+    {
+        "id": 3000009,
+        "name": "tofuNFT",
+        "symbol": "",
+        "twitter": "https://twitter.com/tofuNFT",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/6253/tofunft-dapp-marketplaces-bsc-logo-166x166_c7426742210207a2213a5f97ddcbda46.png",
+        "times": 0
+    },
+    {
+        "id": 3000010,
+        "name": "Hic et Nunc",
+        "symbol": "",
+        "twitter": "https://twitter.com/hicetnunc2000",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/7357/hicetnunc-dapp-marketplaces-tezos-logo-166x166_88a66b54787c555ea5237fa002586ae5.png",
+        "times": 0
+    },
+    {
+        "id": 3000011,
+        "name": "Vulcan Market",
+        "symbol": "",
+        "twitter": "https://twitter.com/vulcanforged",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/8882/vulcanmarket-dapp-marketplaces-vulcanforged-logo-166x166_b0e2e006d12234e2445ba1c2f14f53aa.png",
+        "times": 0
+    },
+    {
+        "id": 3000012,
+        "name": "Paras 2.0",
+        "symbol": "",
+        "twitter": "https://twitter.com/ParasHQ",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/9351/paras20-dapp-marketplaces-near-logo-166x166_bf948f8e773944df0a0f8ce60a77de86.png",
+        "times": 0
+    },
+    {
+        "id": 3000013,
+        "name": "Ebisu's Bay",
+        "symbol": "",
+        "twitter": "https://twitter.com/EbisusBay",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/13052/ebisusbay-dapp-marketplaces-cronos-logo-166x166_02f4fc4f801b10ef029e4ee20acb4802.png",
+        "times": 0
+    },
+    {
+        "id": 3000014,
+        "name": "Element Market",
+        "symbol": "",
+        "twitter": "https://twitter.com/Element_Market",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/8539/element-dapp-marketplaces-ethereum-logo-166x166_f89fd9a4cbab9d99ebd70262d06eee4d.png",
+        "times": 0
+    },
+    {
+        "id": 3000015,
+        "name": "Melos Studio",
+        "symbol": "",
+        "twitter": "https://twitter.com/melos_studio",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/12607/melosstudio-dapp-other-bsc-logo-166x166_b9745cac6c6e00e59880f89d956b5e6c.png",
+        "times": 0
+    },
+    {
+        "id": 3000016,
+        "name": "NFTrade",
+        "symbol": "",
+        "twitter": "https://twitter.com/NFTradeOfficial",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/8498/nftrade-dapp-marketplaces-ethereum-logo-166x166_d7ac827e1d6995607f18143716579ad3.png",
+        "times": 0
+    },
+    {
+        "id": 3000017,
+        "name": "LooksRare",
+        "symbol": "",
+        "twitter": "https://twitter.com/looksrarenft",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/12792/looksrare-dapp-marketplaces-ethereum-logo-166x166_bbc005cc5cca2ab3d6428ad10e97b92b.png",
+        "times": 0
+    },
+    {
+        "id": 3000018,
+        "name": "fxhash",
+        "symbol": "",
+        "twitter": "https://twitter.com/fx_hash_",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/13345/fxhash-dapp-marketplaces-tezos-logo-166x166_1a63b91d52081e209b25ec017b449a6a.png",
+        "times": 0
+    },
+    {
+        "id": 3000019,
+        "name": "NFTKEY Marketplace",
+        "symbol": "",
+        "twitter": "https://twitter.com/NFTKEY",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/6522/nftkeymarketplace-dapp-marketplaces-bsc-logo-166x166_206e122ec0c9acbe9a7f9b58d8b68461.png",
+        "times": 0
+    },
+    {
+        "id": 3000020,
+        "name": "Solsea",
+        "symbol": "",
+        "twitter": "https://twitter.com/SolSeaNFT",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/10314/solsea-dapp-marketplaces-solana-logo-166x166_151b8de412048300c4260804f4faba2a.png",
+        "times": 0
+    },
+    {
+        "id": 3000021,
+        "name": "Biswap Marketplace",
+        "symbol": "",
+        "twitter": "https://twitter.com/Biswap_Dex",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/12778/biswapmarketplace-dapp-marketplaces-bsc-logo-166x166_c7c1493b5b13ef5192a059aa1a3c7fb4.png",
+        "times": 0
+    },
+    {
+        "id": 3000022,
+        "name": "Foundation",
+        "symbol": "",
+        "twitter": "https://twitter.com/withfnd",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/5966/foundation-dapp-collectibles-ethereum-logo-166x166_7476dceb6d61a3a7ec079b867fb957da.png",
+        "times": 0
+    },
+    {
+        "id": 3000023,
+        "name": "PlayDapp Marketplace",
+        "symbol": "",
+        "twitter": "https://twitter.com/playdapp_io",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/3781/playdappmarketplace-dapp-marketplaces-eth-logo-166x166_d87949be7f4d1a2f5f060ab0af4e1ae0.png",
+        "times": 0
+    },
+    {
+        "id": 3000024,
+        "name": "ITAMCUBE",
+        "symbol": "",
+        "twitter": "https://twitter.com/itamcube",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/8444/itam-dapp-marketplaces-bsc-logo-166x166_ef47288a3835e19e1db33883c3f3f079.png",
+        "times": 0
+    },
+    {
+        "id": 3000025,
+        "name": "CryptoBlades Marketplace",
+        "symbol": "",
+        "twitter": "https://twitter.com/bladescrypto",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/7505/cryptobladesmarketplace-dapp-marketplaces-bsc-logo-166x166_4d467e8f22c6eee76483492225e31a59.png",
+        "times": 0
+    },
+    {
+        "id": 3000026,
+        "name": "NFTHive",
+        "symbol": "",
+        "twitter": "https://twitter.com/nfthiveio",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/12401/nfthiveio-dapp-marketplaces-wax-logo-166x166_cab852df1f02983d5b1507e9de7b92e9.png",
+        "times": 0
+    },
+    {
+        "id": 3000027,
+        "name": "Pentas",
+        "symbol": "",
+        "twitter": "https://twitter.com/pentas_io",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/10543/pentas-dapp-marketplaces-bsc-logo-166x166_21bf4b558653294c1c92f025b9208f24.png",
+        "times": 0
+    },
+    {
+        "id": 3000028,
+        "name": "Kalao",
+        "symbol": "",
+        "twitter": "https://twitter.om/GetKalao",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/10858/kalao-dapp-marketplaces-avalanche-logo-166x166_98704913f4cdc351064c6afe8d3860fc.png",
+        "times": 0
+    },
+    {
+        "id": 3000029,
+        "name": "Teia",
+        "symbol": "",
+        "twitter": "https://twitter.com/TeiaCommunity",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/14939/teia-dapp-marketplaces-tezos-logo-166x166_badce2c68b11703d2f13820d0368a777.png",
+        "times": 0
+    },
+    {
+        "id": 3000030,
+        "name": "NEARnames",
+        "symbol": "",
+        "twitter": "https://twitter.com/NEARProtocol",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/6559/nearnames-dapp-marketplaces-near-logo-166x166_b1026f72757f4cf8810edfe7a36226a5.png",
+        "times": 0
+    },
+    {
+        "id": 3000031,
+        "name": "The Sandbox Marketplace",
+        "symbol": "",
+        "twitter": "https://twitter.com/thesandboxgame",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/6121/thesandboxmarketplace-dapp-marketplaces-ethereum-logo-166x166_67b33fe8907bd079e27ea3a16cc7176e.png",
+        "times": 0
+    },
+    {
+        "id": 3000032,
+        "name": "Bomb Crypto Marketplace",
+        "symbol": "",
+        "twitter": "https://twitter.com/BombCryptoGame",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/13512/bombcryptomarketplace-dapp-marketplaces-bsc-logo-166x166_a2db12751eacb2c18112c95e880a265f.png",
+        "times": 0
+    },
+    {
+        "id": 3000033,
+        "name": "NFTb",
+        "symbol": "",
+        "twitter": "https://twitter.com/nftbmarket",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/6621/nftb-dapp-marketplaces-bsc-logo-166x166_724a39d5c3dab83d41bab45a7dedb197.png",
+        "times": 0
+    },
+    {
+        "id": 3000034,
+        "name": "Versum",
+        "symbol": "",
+        "twitter": "https://twitter.com/versumofficial",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/13578/versum-dapp-marketplaces-tezos-logo-166x166_15e9cba46ebbe3721c40ef64a0628bdb.png",
+        "times": 0
+    },
+    {
+        "id": 3000035,
+        "name": "Rarible",
+        "symbol": "",
+        "twitter": "https://twitter.com/rariblecom",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/3182/rarible-dapp-marketplaces-eth-logo-166x166_b6635ca0d15f52dced517911b8cbf528.png",
+        "times": 0
+    },
+    {
+        "id": 3000036,
+        "name": "Dinosaur Eggs",
+        "symbol": "",
+        "twitter": "https://twitter.com/dsgmetaverse",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/9814/dinosaureggs-dapp-marketplaces-bsc-logo-166x166_6836daf6ebbfa0043a4872dac6c554e9.png",
+        "times": 0
+    },
+    {
+        "id": 3000037,
+        "name": "Mintverse",
+        "symbol": "",
+        "twitter": "https://twitter.com/mintverse_",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/12997/mintverse-dapp-marketplaces-ethereum-logo-166x166_f88272b4593b1d203699671f9d41c55a.png",
+        "times": 0
+    },
+    {
+        "id": 3000038,
+        "name": "KlayMint",
+        "symbol": "",
+        "twitter": "https://twitter.com/klaymint",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/11342/klaymint-dapp-marketplaces-klaytn-logo-166x166_f1336fbef15d0811958406c35e7eed58.png",
+        "times": 0
+    },
+    {
+        "id": 3000039,
+        "name": "WazirX NFT",
+        "symbol": "",
+        "twitter": "https://twitter.com/WazirXNFT",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/13074/wazirxnft-dapp-marketplaces-bsc-logo-166x166_1aec4a88dfbb53826d1a8dc83e527910.png",
+        "times": 0
+    },
+    {
+        "id": 3000040,
+        "name": "CroSea",
+        "symbol": "",
+        "twitter": "https://twitter.com/croseanft",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/14007/crosea-dapp-marketplaces-cronos-logo-166x166_b2f8a83068d1ee785fea942075d34f9a.png",
+        "times": 0
+    },
+    {
+        "id": 3000041,
+        "name": "DigitalEyes Mark",
+        "symbol": "",
+        "twitter": "https://twitter.com/DigitalEyesNFT",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/10199/digitaleyesmarket-dapp-marketplaces-solana-logo-166x166_bef3ce62e0884352ed725231ef0aeb11.png",
+        "times": 0
+    },
+    {
+        "id": 3000042,
+        "name": "Collect",
+        "symbol": "",
+        "twitter": "https://twitter.com/collectsocials",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/6068/collect-dapp-marketplaces-wax-logo-166x166_261fa46faa5874455a542161b0d2de03.png",
+        "times": 0
+    },
+    {
+        "id": 3000043,
+        "name": "AirNFTs",
+        "symbol": "",
+        "twitter": "https://twitter.com/airnfts",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/6203/airnfts-dapp-marketplaces-bsc-logo-166x166_310f1db18ebe5c07d6fc4922cd6f0c2e.png",
+        "times": 0
+    },
+    {
+        "id": 3000044,
+        "name": "X2Y2",
+        "symbol": "",
+        "twitter": "https://twitter.com/the_x2y2",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/13563/x2y2-dapp-marketplaces-ethereum-logo-166x166_cddbfe50194e34daa978cd4b85aeee1c.png",
+        "times": 0
+    },
+    {
+        "id": 3000045,
+        "name": "Exchange Art",
+        "symbol": "",
+        "twitter": "https://twitter.com/exchgART",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/12301/exchangeart-dapp-marketplaces-solana-logo-166x166_6aba94dd36c28fca47ecac26d035c9a8.png",
+        "times": 0
+    },
+    {
+        "id": 3000046,
+        "name": "CyberBox",
+        "symbol": "",
+        "twitter": "https://twitter.com/cybertime_eth",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/13799/cyberbox-dapp-marketplaces-celo-logo-166x166_471d9eaa97e9f1758a6919026ef8409e.png",
+        "times": 0
+    },
+    {
+        "id": 3000047,
+        "name": "Treasureland",
+        "symbol": "",
+        "twitter": "https://twitter.com/TreasurelandNFT",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/5578/treasureland-dapp-marketplaces-bsc-logo-166x166_09f70a58845f0f734ff9b8eb2e3bac82.png",
+        "times": 0
+    },
+    {
+        "id": 3000048,
+        "name": "Mintable",
+        "symbol": "",
+        "twitter": "https://twitter.com/mintable_app",
+        "exchange": "",
+        "description": "",
+        "logo": "https://dashboard-assets.dappradar.com/document/1488/mintable-dapp-marketplaces-ethereum-logo-166x166_040afa89b6329e88303531b7a8823c43.png",
+        "times": 0
+    }
+]
